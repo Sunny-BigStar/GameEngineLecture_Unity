@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 598fb1767626f42e992bb9c2769d86ea
+guid: 86ca59b9bca0e409b9ba2784fbe69f01
 AssetOrigin:
   serializedVersion: 1
   productId: 103349
   packageName: Sunny Land
   packageVersion: 1.1
-  assetPath: Assets/SunnyLand Artwork/Sprites/player/jump/player-fall.png
+  assetPath: Assets/SunnyLand Artwork/Sprites/Enemies/frog/idle/frog-idle-1.png
   uploadId: 540939
 TextureImporter:
   internalIDToNameTable: []
@@ -53,7 +53,7 @@ TextureImporter:
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
-  alignment: 0
+  alignment: 7
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
